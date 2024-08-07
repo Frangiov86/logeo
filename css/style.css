@@ -31,7 +31,6 @@ img {
 
 
 
-
 /* Estilos para el formulario de inicio de sesión */
 .logeopagina {
     background-color: #000; 
@@ -43,7 +42,21 @@ img {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    margin-top: -130px;
 }
+
+
+.parrafo{
+    background-color: #000; 
+    color: #0f0; 
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+    padding-top: 120px;
+}
+
+
+
+
 
 .tituloh2logeo {
     text-align: center; 

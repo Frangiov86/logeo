@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
 
-    alert("En usuario escribir 'usuario1' y en contraseña 'contraseña1' para probar el logueo. Si no se escribe correctamente, no se podrá logearse.");
+   
 
 
 
